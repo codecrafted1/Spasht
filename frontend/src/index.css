@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #F3EEE3;
+  --ink: #1B1A17;
+  --rule: #D9D1BF;
+  --vermilion: #C8432B;
+  --sage: #5E7A5A;
+  --ochre: #C99A2E;
+}
+
+/* Hide native cursor on fine pointer devices, except in text inputs */
+@media (pointer: fine) {
+  body, button, a, [role="button"], label {
+    cursor: none !important;
+  }
+  input, textarea, [contenteditable="true"] {
+    cursor: text !important;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Focus styles for WCAG keyboard accessibility */
+:focus-visible {
+  outline: 2px solid var(--vermilion) !important;
+  outline-offset: 3px !important;
+}
+
+/* Tabular numbers for layout stability */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle tactile grain background */
+.paper-grain {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.04'/%3E%3C/svg%3E");
+}
+
+/* Medical rule lines */
+.border-ruled {
+  border-color: var(--rule);
+}
+
+.divide-ruled > :not([hidden]) ~ :not([hidden]) {
+  border-color: var(--rule);
+}

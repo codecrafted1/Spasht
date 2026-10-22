@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_011",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Losartan 50mg",
+      "normalized_name": "Losartan",
+      "frequency": "0-1-0",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Metformin 500mg",
+      "normalized_name": "Metformin",
+      "frequency": "1-0-1",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Amlodipine 5mg",
+      "normalized_name": "Amlodipine",
+      "frequency": "1-0-0",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Cetirizine 10mg",
+      "normalized_name": "Cetirizine",
+      "frequency": "0-0-1",
+      "duration": "7 days"
+    }
+  ]
+}

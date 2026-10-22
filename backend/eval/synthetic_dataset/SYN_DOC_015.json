@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_015",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Azithromycin 500mg",
+      "normalized_name": "Azithromycin",
+      "frequency": "1-0-0",
+      "duration": "3 days"
+    },
+    {
+      "raw_text": "Amoxicillin 625mg",
+      "normalized_name": "Amoxicillin",
+      "frequency": "1-1-1",
+      "duration": "5 days"
+    },
+    {
+      "raw_text": "Metformin 500mg",
+      "normalized_name": "Metformin",
+      "frequency": "1-0-1",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Losartan 50mg",
+      "normalized_name": "Losartan",
+      "frequency": "0-1-0",
+      "duration": "30 days"
+    }
+  ]
+}

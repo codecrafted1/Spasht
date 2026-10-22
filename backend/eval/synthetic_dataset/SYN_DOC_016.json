@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_016",
+  "type": "lab_report",
+  "items": [
+    {
+      "test_name": "Serum Potassium",
+      "value": 5.15,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.0,
+      "expected_status": "slightly_outside"
+    },
+    {
+      "test_name": "Thyroid Stimulating Hormone (TSH)",
+      "value": 2.4,
+      "unit": "mIU/L",
+      "low": 0.45,
+      "high": 4.5,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Hemoglobin (Hb)",
+      "value": 13.8,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 15.5,
+      "expected_status": "within"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "doc_id": "SYN_DOC_009",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Paracetamol 650mg",
+      "normalized_name": "Paracetamol (Acetaminophen)",
+      "frequency": "SOS",
+      "duration": "3 days"
+    },
+    {
+      "raw_text": "Metformin 500mg",
+      "normalized_name": "Metformin",
+      "frequency": "1-0-1",
+      "duration": "30 days"
+    }
+  ]
+}

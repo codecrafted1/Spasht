@@ -1,0 +1,152 @@
+[
+  {
+    "doc_id": "SYN_DOC_001",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_001.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_001.json"
+  },
+  {
+    "doc_id": "SYN_DOC_002",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_002.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_002.json"
+  },
+  {
+    "doc_id": "SYN_DOC_003",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_003.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_003.json"
+  },
+  {
+    "doc_id": "SYN_DOC_004",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_004.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_004.json"
+  },
+  {
+    "doc_id": "SYN_DOC_005",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_005.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_005.json"
+  },
+  {
+    "doc_id": "SYN_DOC_006",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_006.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_006.json"
+  },
+  {
+    "doc_id": "SYN_DOC_007",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_007.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_007.json"
+  },
+  {
+    "doc_id": "SYN_DOC_008",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_008.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_008.json"
+  },
+  {
+    "doc_id": "SYN_DOC_009",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_009.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_009.json"
+  },
+  {
+    "doc_id": "SYN_DOC_010",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_010.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_010.json"
+  },
+  {
+    "doc_id": "SYN_DOC_011",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_011.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_011.json"
+  },
+  {
+    "doc_id": "SYN_DOC_012",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_012.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_012.json"
+  },
+  {
+    "doc_id": "SYN_DOC_013",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_013.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_013.json"
+  },
+  {
+    "doc_id": "SYN_DOC_014",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_014.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_014.json"
+  },
+  {
+    "doc_id": "SYN_DOC_015",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_015.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_015.json"
+  },
+  {
+    "doc_id": "SYN_DOC_016",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_016.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_016.json"
+  },
+  {
+    "doc_id": "SYN_DOC_017",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_017.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_017.json"
+  },
+  {
+    "doc_id": "SYN_DOC_018",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_018.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_018.json"
+  },
+  {
+    "doc_id": "SYN_DOC_019",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_019.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_019.json"
+  },
+  {
+    "doc_id": "SYN_DOC_020",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_020.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_020.json"
+  },
+  {
+    "doc_id": "SYN_DOC_021",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_021.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_021.json"
+  },
+  {
+    "doc_id": "SYN_DOC_022",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_022.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_022.json"
+  },
+  {
+    "doc_id": "SYN_DOC_023",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_023.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_023.json"
+  },
+  {
+    "doc_id": "SYN_DOC_024",
+    "type": "lab_report",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_024.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_024.json"
+  },
+  {
+    "doc_id": "SYN_DOC_025",
+    "type": "prescription",
+    "image": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_025.png",
+    "label": "C:\\Users\\ASUS\\Desktop\\WEB DEVELOPMENT\\MED-PROJECT\\backend\\eval\\synthetic_dataset\\SYN_DOC_025.json"
+  }
+]

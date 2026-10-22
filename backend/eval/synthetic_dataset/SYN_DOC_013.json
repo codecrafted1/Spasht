@@ -1,0 +1,18 @@
+{
+  "doc_id": "SYN_DOC_013",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Amlodipine 5mg",
+      "normalized_name": "Amlodipine",
+      "frequency": "1-0-0",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Amoxicillin 625mg",
+      "normalized_name": "Amoxicillin",
+      "frequency": "1-1-1",
+      "duration": "5 days"
+    }
+  ]
+}

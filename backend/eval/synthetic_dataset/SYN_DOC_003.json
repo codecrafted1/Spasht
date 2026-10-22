@@ -1,0 +1,24 @@
+{
+  "doc_id": "SYN_DOC_003",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Cetirizine 10mg",
+      "normalized_name": "Cetirizine",
+      "frequency": "0-0-1",
+      "duration": "7 days"
+    },
+    {
+      "raw_text": "Metformin 500mg",
+      "normalized_name": "Metformin",
+      "frequency": "1-0-1",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Pantoprazole 40mg",
+      "normalized_name": "Pantoprazole",
+      "frequency": "1-0-0",
+      "duration": "15 days"
+    }
+  ]
+}

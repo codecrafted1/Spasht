@@ -1,0 +1,34 @@
+services:
+  # 1. FastAPI Python Backend Web Service (Free Tier)
+  - type: web
+    name: samjho-backend
+    env: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: ALLOWED_ORIGINS
+        value: '["https://samjho-frontend.onrender.com", "http://localhost:5173", "http://localhost:3000"]'
+
+  # 2. Vite + React Frontend Static Site (Free Tier)
+  - type: web
+    name: samjho-frontend
+    env: static
+    plan: free
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: samjho-backend
+          property: host

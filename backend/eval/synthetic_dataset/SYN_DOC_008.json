@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_008",
+  "type": "lab_report",
+  "items": [
+    {
+      "test_name": "Serum Triglycerides",
+      "value": 140.0,
+      "unit": "mg/dL",
+      "low": 50.0,
+      "high": 150.0,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Glycated Hemoglobin (HbA1c)",
+      "value": 6.8,
+      "unit": "%",
+      "low": 4.0,
+      "high": 5.6,
+      "expected_status": "clearly_outside"
+    },
+    {
+      "test_name": "Fasting Blood Glucose",
+      "value": 138.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "expected_status": "clearly_outside"
+    }
+  ]
+}

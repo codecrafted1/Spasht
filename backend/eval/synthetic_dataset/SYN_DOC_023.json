@@ -1,0 +1,18 @@
+{
+  "doc_id": "SYN_DOC_023",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Paracetamol 650mg",
+      "normalized_name": "Paracetamol (Acetaminophen)",
+      "frequency": "SOS",
+      "duration": "3 days"
+    },
+    {
+      "raw_text": "Azithromycin 500mg",
+      "normalized_name": "Azithromycin",
+      "frequency": "1-0-0",
+      "duration": "3 days"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_001",
+  "type": "prescription",
+  "items": [
+    {
+      "raw_text": "Atorvastatin 10mg",
+      "normalized_name": "Atorvastatin",
+      "frequency": "0-0-1",
+      "duration": "30 days"
+    },
+    {
+      "raw_text": "Paracetamol 650mg",
+      "normalized_name": "Paracetamol (Acetaminophen)",
+      "frequency": "SOS",
+      "duration": "3 days"
+    },
+    {
+      "raw_text": "Cetirizine 10mg",
+      "normalized_name": "Cetirizine",
+      "frequency": "0-0-1",
+      "duration": "7 days"
+    },
+    {
+      "raw_text": "Losartan 50mg",
+      "normalized_name": "Losartan",
+      "frequency": "0-1-0",
+      "duration": "30 days"
+    }
+  ]
+}

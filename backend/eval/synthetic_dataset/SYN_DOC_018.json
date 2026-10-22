@@ -1,0 +1,38 @@
+{
+  "doc_id": "SYN_DOC_018",
+  "type": "lab_report",
+  "items": [
+    {
+      "test_name": "Serum Triglycerides",
+      "value": 140.0,
+      "unit": "mg/dL",
+      "low": 50.0,
+      "high": 150.0,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Hemoglobin (Hb)",
+      "value": 13.8,
+      "unit": "g/dL",
+      "low": 12.0,
+      "high": 15.5,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Serum Creatinine",
+      "value": 1.05,
+      "unit": "mg/dL",
+      "low": 0.7,
+      "high": 1.2,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Serum Potassium",
+      "value": 5.15,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.0,
+      "expected_status": "slightly_outside"
+    }
+  ]
+}

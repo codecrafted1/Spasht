@@ -1,0 +1,30 @@
+{
+  "doc_id": "SYN_DOC_006",
+  "type": "lab_report",
+  "items": [
+    {
+      "test_name": "Serum Triglycerides",
+      "value": 140.0,
+      "unit": "mg/dL",
+      "low": 50.0,
+      "high": 150.0,
+      "expected_status": "within"
+    },
+    {
+      "test_name": "Serum Potassium",
+      "value": 5.15,
+      "unit": "mmol/L",
+      "low": 3.5,
+      "high": 5.0,
+      "expected_status": "slightly_outside"
+    },
+    {
+      "test_name": "Fasting Blood Glucose",
+      "value": 138.0,
+      "unit": "mg/dL",
+      "low": 70.0,
+      "high": 100.0,
+      "expected_status": "clearly_outside"
+    }
+  ]
+}

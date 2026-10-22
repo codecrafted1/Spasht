@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MED-METFORMIN",
+    "generic_name": "Metformin",
+    "aliases": ["Glucophage", "Glycomet", "Riomet", "Fortamet", "Tab. Metformin"],
+    "class": "Biguanide oral antihyperglycemic",
+    "plain_summary": "Metformin helps maintain balanced blood sugar levels by reducing glucose production in the liver and improving body sensitivity to insulin.",
+    "general_usage": "Used under clinical guidance for blood sugar management.",
+    "administration_note": "Commonly taken with meals to minimize stomach upset.",
+    "citation": {
+      "id": "WHO-EML-MET-01",
+      "source_name": "WHO Model List of Essential Medicines (23rd List, 2023)",
+      "source_url": "https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Metformin: Section 18.5 Medicines for diabetes. Core medicine for blood glucose management."
+    }
+  },
+  {
+    "id": "MED-ATORVASTATIN",
+    "generic_name": "Atorvastatin",
+    "aliases": ["Lipitor", "Atorva", "Storvas", "Atocor", "Tab. Atorvastatin"],
+    "class": "HMG-CoA reductase inhibitor (Statin)",
+    "plain_summary": "Atorvastatin helps regulate blood cholesterol levels by slowing cholesterol formation in the liver, supporting arterial and heart wellness.",
+    "general_usage": "Used to maintain healthy cholesterol balance under medical supervision.",
+    "administration_note": "Often taken in the evening or at bedtime as advised by clinicians.",
+    "citation": {
+      "id": "WHO-EML-ATO-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Atorvastatin: Lipid-lowering agent. Indicated for individuals at elevated risk of cardiovascular events."
+    }
+  },
+  {
+    "id": "MED-AMOXICILLIN",
+    "generic_name": "Amoxicillin",
+    "aliases": ["Amoxil", "Mox", "Novamox", "Amoxiclav", "Augmentin", "Cap. Amoxicillin"],
+    "class": "Beta-lactam antibacterial",
+    "plain_summary": "Amoxicillin is an antibacterial medicine used to treat bacterial infections. Completing the prescribed course is important to prevent antibiotic resistance.",
+    "general_usage": "Prescribed for specific bacterial infections as diagnosed by a clinician.",
+    "administration_note": "Drink adequate water; finish the full course even if feeling better.",
+    "citation": {
+      "id": "WHO-EML-AMX-01",
+      "source_name": "WHO Model List of Essential Medicines (Access Group)",
+      "source_url": "https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02",
+      "license_note": "WHO AWaRe Antibiotic Categorisation",
+      "excerpt": "Amoxicillin: Access group antibiotic for respiratory and skin-soft tissue bacterial infections."
+    }
+  },
+  {
+    "id": "MED-AZITHROMYCIN",
+    "generic_name": "Azithromycin",
+    "aliases": ["Zithromax", "Azee", "Azithral", "Zady", "Tab. Azithromycin"],
+    "class": "Macrolide antibiotic",
+    "plain_summary": "Azithromycin is an antibiotic that stops bacterial growth in respiratory and skin infections. It is usually prescribed for short courses of 3 to 5 days.",
+    "general_usage": "Used for susceptible bacterial infections under clinical oversight.",
+    "administration_note": "Take as directed, either with food or on an empty stomach depending on formulation.",
+    "citation": {
+      "id": "WHO-EML-AZI-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Azithromycin: Watch group antibacterial for targeted clinical indications."
+    }
+  },
+  {
+    "id": "MED-PARACETAMOL",
+    "generic_name": "Paracetamol (Acetaminophen)",
+    "aliases": ["Crocin", "Dolo", "Calpol", "Panadol", "Pacimol"],
+    "class": "Analgesic and antipyretic",
+    "plain_summary": "Paracetamol is commonly used to ease mild to moderate discomfort and help lower elevated body temperature.",
+    "general_usage": "Used for temporary symptom relief of mild aches and fever.",
+    "administration_note": "Do not exceed maximum daily limits to protect liver health.",
+    "citation": {
+      "id": "WHO-EML-PAR-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Paracetamol: Section 2.1 Non-opioids and non-steroidal anti-inflammatory medicines."
+    }
+  },
+  {
+    "id": "MED-OMEPRAZOLE",
+    "generic_name": "Omeprazole",
+    "aliases": ["Prilosec", "Omez", "Omee", "Omep", "Cap. Omeprazole"],
+    "class": "Proton pump inhibitor",
+    "plain_summary": "Omeprazole reduces the amount of acid produced by the stomach lining, helping to relieve irritation, heartburn, and acid reflux.",
+    "general_usage": "Prescribed to soothe stomach acid symptoms.",
+    "administration_note": "Best taken in the morning 30 to 60 minutes before breakfast.",
+    "citation": {
+      "id": "WHO-EML-OME-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Omeprazole: Section 17.1 Anti-ulcer medicines."
+    }
+  },
+  {
+    "id": "MED-AMLODIPINE",
+    "generic_name": "Amlodipine",
+    "aliases": ["Norvasc", "Amlong", "Amlopres", "Tab. Amlodipine"],
+    "class": "Calcium channel blocker",
+    "plain_summary": "Amlodipine helps relax and widen blood vessels, allowing blood to circulate more smoothly and maintaining balanced blood pressure.",
+    "general_usage": "Prescribed for cardiovascular blood pressure support.",
+    "administration_note": "Can be taken with or without food at roughly the same time daily.",
+    "citation": {
+      "id": "WHO-EML-AML-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Amlodipine: Section 12.3 Antihypertensive medicines."
+    }
+  },
+  {
+    "id": "MED-LOSARTAN",
+    "generic_name": "Losartan",
+    "aliases": ["Cozaar", "Losacar", "Repace", "Tozaar"],
+    "class": "Angiotensin II receptor blocker",
+    "plain_summary": "Losartan works by blocking compounds that tighten blood vessels, helping circulation flow smoothly and supporting heart function.",
+    "general_usage": "Used for blood pressure balance and kidney protection in specific contexts.",
+    "administration_note": "Maintain consistent daily schedule as recommended by doctor.",
+    "citation": {
+      "id": "WHO-EML-LOS-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Losartan: Section 12.3 Antihypertensive medicines."
+    }
+  },
+  {
+    "id": "MED-PANTOPRAZOLE",
+    "generic_name": "Pantoprazole",
+    "aliases": ["Protonix", "Pan", "Pantocid", "Pantosec"],
+    "class": "Proton pump inhibitor",
+    "plain_summary": "Pantoprazole decreases stomach acid secretion to support healing of stomach lining and relieve acidic burning sensations.",
+    "general_usage": "Used to manage acid reflux symptoms under clinician care.",
+    "administration_note": "Swallow whole without crushing; usually taken before first meal.",
+    "citation": {
+      "id": "NLEM-IND-PAN-01",
+      "source_name": "National List of Essential Medicines India",
+      "source_url": "https://cdsco.gov.in",
+      "license_note": "Govt of India Public Health Reference",
+      "excerpt": "Pantoprazole tablets 40 mg: Section 17 Gastrointestinal medicines."
+    }
+  },
+  {
+    "id": "MED-CETIRIZINE",
+    "generic_name": "Cetirizine",
+    "aliases": ["Zyrtec", "Cetzine", "Alerid", "Okacet"],
+    "class": "Antihistamine",
+    "plain_summary": "Cetirizine helps block histamines, providing relief from allergy symptoms such as sneezing, runny nose, watery eyes, and itching.",
+    "general_usage": "Commonly used for environmental or seasonal allergy relief.",
+    "administration_note": "May cause mild drowsiness in some individuals.",
+    "citation": {
+      "id": "NLEM-IND-CET-01",
+      "source_name": "National List of Essential Medicines India",
+      "source_url": "https://cdsco.gov.in",
+      "license_note": "Govt of India Public Health Reference",
+      "excerpt": "Cetirizine tablets 10 mg: Antiallergics and medicines used in anaphylaxis."
+    }
+  },
+  {
+    "id": "MED-METOPROLOL",
+    "generic_name": "Metoprolol",
+    "aliases": ["Lopressor", "Betaloc", "Metolar", "Seloken"],
+    "class": "Beta-blocker",
+    "plain_summary": "Metoprolol slows heart rate and reduces the workload on the heart muscle, supporting regular cardiac rhythm and balanced pressure.",
+    "general_usage": "Prescribed for cardiovascular rhythm and blood pressure support.",
+    "administration_note": "Do not abruptly discontinue without consulting your physician.",
+    "citation": {
+      "id": "WHO-EML-METO-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Metoprolol: Section 12.3 Antihypertensive medicines."
+    }
+  },
+  {
+    "id": "MED-LEVOTHYROXINE",
+    "generic_name": "Levothyroxine",
+    "aliases": ["Synthroid", "Thyronorm", "Eltroxin", "Thyrox"],
+    "class": "Thyroid hormone replacement",
+    "plain_summary": "Levothyroxine supplies synthetic thyroid hormone to balance natural metabolic processes when the thyroid produces less hormone.",
+    "general_usage": "Prescribed for thyroid hormone balance under clinical blood monitoring.",
+    "administration_note": "Take on an empty stomach with plain water at least 30 minutes before breakfast.",
+    "citation": {
+      "id": "WHO-EML-LEV-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Levothyroxine: Section 18.8 Thyroid hormones and antithyroid medicines."
+    }
+  },
+  {
+    "id": "MED-SALBUTAMOL",
+    "generic_name": "Salbutamol (Albuterol)",
+    "aliases": ["Ventolin", "Asthalin", "Aerolin"],
+    "class": "Short-acting beta2-agonist",
+    "plain_summary": "Salbutamol relaxes airway muscles to make breathing easier during episodes of wheezing, cough, or chest tightness.",
+    "general_usage": "Used as a bronchodilator for airway relaxation.",
+    "administration_note": "Use inhaler spacer if recommended for optimal delivery.",
+    "citation": {
+      "id": "WHO-EML-SAL-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Salbutamol inhaler: Section 25.1 Medicines acting on the respiratory tract."
+    }
+  },
+  {
+    "id": "MED-IBUPROFEN",
+    "generic_name": "Ibuprofen",
+    "aliases": ["Advil", "Motrin", "Brufen", "Ibugesic"],
+    "class": "NSAID",
+    "plain_summary": "Ibuprofen is a non-steroidal anti-inflammatory medicine that helps reduce inflammation, swelling, and mild aches.",
+    "general_usage": "Used for temporary pain and swelling relief.",
+    "administration_note": "Take with meals or milk to protect stomach lining.",
+    "citation": {
+      "id": "WHO-EML-IBU-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Ibuprofen: Section 2.1 Non-opioid analgesics and antipyretics."
+    }
+  },
+  {
+    "id": "MED-CIPROFLOXACIN",
+    "generic_name": "Ciprofloxacin",
+    "aliases": ["Cipro", "Ciplox", "Cifran"],
+    "class": "Fluoroquinolone antibiotic",
+    "plain_summary": "Ciprofloxacin is a broad-spectrum antibiotic for targeted bacterial infections under professional clinical direction.",
+    "general_usage": "Prescribed for specific bacterial infections.",
+    "administration_note": "Drink plenty of fluids; avoid taking simultaneously with antacids or dairy.",
+    "citation": {
+      "id": "WHO-EML-CIP-01",
+      "source_name": "WHO Model List of Essential Medicines",
+      "source_url": "https://www.who.int/medicines/publications/essentialmedicines",
+      "license_note": "Open Access WHO Guidelines",
+      "excerpt": "Ciprofloxacin: Watch group antibiotic with specific clinical stewardship guidelines."
+    }
+  }
+]
