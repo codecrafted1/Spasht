@@ -1,5 +1,5 @@
 export const APP_CONFIG = {
-  name: "Samjho",
+  name:"Spasht",
   tagline: "Understand your health documents in plain words, grounded in verified medical references.",
   oneLinePitch: "Upload a prescription or lab report and get a plain-language explanation in your own language, with every statement traced back to its source. Information only. No diagnosis.",
   disclaimer: "Information only. Not a diagnosis or dosage recommendation. Never alter medicines or doses without consulting your doctor or pharmacist.",
