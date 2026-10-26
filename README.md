@@ -1,4 +1,4 @@
-# Samjho — Grounded Plain-Language Health Document Explainer
+# Spasht — Grounded Plain-Language Health Document Explainer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Safety: Zero-Diagnosis](https://img.shields.io/badge/Safety-Non--Diagnostic-success.svg)]()
